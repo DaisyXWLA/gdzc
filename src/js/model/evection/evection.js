@@ -1,0 +1,22 @@
+export default new Model({
+  id: '',
+  projectInfo: '',
+  travelTitle: '',
+  travelAddrProvince: '',
+  travelAddrCity: '',
+  travelAddrRegion: '',
+  travelPeerPerson: '',
+  travelMode: '',
+  planStartTime: '',
+  planEndTime: '',
+  planDays: '',
+  realStartTime: '',
+  realEndTime: '',
+  realDays: '',
+  isDelay: '',
+  delayTime: '',
+  content: '',
+  flowId: '',
+  creator: '',
+  createTime: ''
+});
